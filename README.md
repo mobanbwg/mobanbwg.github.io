@@ -93,7 +93,7 @@ Ganti SVG path di dalam `.logo`:
 
 Saat ini mengarah ke:
 ```
-https://script.google.com/macros/s/AKfycbw8CL_9oohi20F-rRBQtiTNes-XDLswDfA4cgrX8LCTQZ3ak2CNEhAc0OQieshSf9TW/exec
+https://script.google.com/macros/s/AKfycbxOfijq6WNaFJVFQ1fSQqLE6e801hW92IDFxiYYHySmqTk2DNarWdPfAHzH2i-0ITR4ZA/exec
 ```
 
 Untuk mengubah URL tujuan, edit di 2 tempat:
