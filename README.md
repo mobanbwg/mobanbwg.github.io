@@ -1,4 +1,4 @@
-# MOBAN KBS Dashboard
+# MOBAN BWG Dashboard
 
 Halaman intro animasi untuk MOBAN KBS Dashboard dengan redirect otomatis ke Google Apps Script.
 
