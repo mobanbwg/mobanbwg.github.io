@@ -1,6 +1,6 @@
 # MOBAN BWG Dashboard
 
-Halaman intro animasi untuk MOBAN KBS Dashboard dengan redirect otomatis ke Google Apps Script.
+Halaman intro animasi untuk MOBAN BWG Dashboard dengan redirect otomatis ke Google Apps Script.
 
 ## 🎨 Fitur
 
@@ -124,4 +124,4 @@ Untuk kontribusi atau pertanyaan, silakan hubungi tim development.
 
 ---
 
-**Dibuat dengan ❤️ untuk MOBAN KBS Dashboard**
+**Dibuat dengan ❤️ untuk MOBAN BWG Dashboard**
