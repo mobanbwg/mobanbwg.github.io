@@ -116,7 +116,7 @@ Untuk mengubah URL tujuan, edit di 2 tempat:
 
 ## 📝 Lisensi
 
-© 2025 Moban BWG Dashboard. All rights reserved.
+© 2026 Moban BWG Dashboard. All rights reserved.
 
 ## 🤝 Kontribusi
 
